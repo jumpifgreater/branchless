@@ -4,4 +4,4 @@ A C++ library that transforms conditional branches into branchless logic. Replac
 
 It Improves performance and makes reverse engineering harder since it doesn't use conditional branches.
 
-# Please Stat the Project ⭐
+# Please Star the Project ⭐
