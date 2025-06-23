@@ -50,7 +50,7 @@ namespace branchless {
 	}
 
 	template<typename T>
-	uint binary_search_branchless(T* arr, uint size, T target) {
+	uint binarySearch_branchless(T* arr, uint size, T target) {
 		uint left = 0;
 		uint right = size;
 
