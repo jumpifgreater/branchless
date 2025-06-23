@@ -82,6 +82,12 @@ namespace branchless {
 		}
 	};
 
+	/*
+
+		BENCHMARK SKIDDED FROM SOME RANDOM GUY BUT CREDITS TO HIM
+   
+	*/
+
 	void benchmark_comparison() {
 		uint iterations = 1000000;
 
